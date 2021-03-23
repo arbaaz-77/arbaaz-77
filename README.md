@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @arbaaz-77
+- 👋 Hi, I’m Arbaaz Sumar
 - 👀 I’m interested in Games, Movies & all round Entertainment 
 - 🌱 I’m a software engineer graduate
 - 💞️ I’m aspiring to be a gameplay programmer mostly in Unity
