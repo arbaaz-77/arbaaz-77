@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Arbaaz Sumar
 - 👀 I’m interested in Football, coding & gaming
 - 🌱 I’m a software engineer graduate
-- 💞️ I’m aspiring to be a front-end engineer
+- 💞️ I’m aspiring to be a game developer
 - 📫 How to reach me - arbaaz970@gmail.com
 - arbaazsumar.com
 
