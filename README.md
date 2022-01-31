@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Arbaaz Sumar
-- 🌱 I’m a freelance web developer developer
+- 🌱 I’m a freelance web developer
 - 💞️ I’m aspiring to be a full stack web developer
 - - 👀 I’m interested in Football, coding & gaming
 - 📫 How to reach me - arbaaz970@gmail.com
