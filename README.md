@@ -1,8 +1,8 @@
  # 👋 Hi, 
  
- I’m **Arbaaz Sumar**, a Front-End Engineer who lives in Nairobi, Kenya.
+ I’m **Arbaaz Sumar**, a Front-End Engineer from in Nairobi, Kenya.
  
- Currently working as a Frelancer, I love helping businesses achieve their goals through something I was part of.
+ I enjoy working with React and Native to create beautiful, optimized applications for everyone on the web.
  
  I’m interested in Football, reading & gaming.
  
