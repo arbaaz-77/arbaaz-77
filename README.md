@@ -2,7 +2,10 @@
  # 👋 Hi, 
  
  I’m **Arbaaz Sumar**, a Front-End Engineer, active coder and avid dreamer. I make it my mission to translate user-focused designs into pixel-perfect websites or applications that run blazing fast.
- [![My Github stats](https://github-readme-stats.vercel.app/api?username=arbaaz-77)](https://github.com/arbaaz-77/github-readme-stats)
+
+
+[![My Github stats](https://github-readme-stats.vercel.app/api?username=arbaaz-77&show_icons=true&theme=dracula)](https://github.com/arbaaz-77/github-readme-stats)
+
 
 Want to know more about me? [Check out my portfolio.](http://arbaazsumar.com/)
 
