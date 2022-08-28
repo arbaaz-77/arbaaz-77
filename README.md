@@ -1,7 +1,7 @@
-
- ![MasterHead](./header.png)
- 
- I’m **Arbaaz Sumar**, a Front-End Engineer, active coder and avid dreamer. I make it my mission to translate user-focused designs into pixel-perfect websites or applications that run blazing fast.
+![MasterHead](./header.png)
+<img align="right" alt="Coding" width="400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--sNXjzc6P--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://media1.tenor.com/images/0c34272909ee2a4db5606a014082312b/tenor.gif%3Fitemid%3D15828752">
+  
+Front-End Engineer, active coder and avid dreamer. I make it my mission to translate user-focused designs into pixel-perfect websites or applications that run blazing fast.
 
 
 [![My Github stats](https://github-readme-stats.vercel.app/api?username=arbaaz-77&show_icons=true&theme=dracula)](https://github.com/arbaaz-77/github-readme-stats)
