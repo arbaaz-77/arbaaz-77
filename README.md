@@ -1,6 +1,7 @@
 ![MasterHead](./header.png)
 
 <br>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=DD6387&background=282A3600&width=435&lines=Front+End+Developer;React+Developer;Avid+Dreamer)](https://git.io/typing-svg)
 <img align="right" alt="Coding" width="400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--sNXjzc6P--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://media1.tenor.com/images/0c34272909ee2a4db5606a014082312b/tenor.gif%3Fitemid%3D15828752">
 <br>
 
