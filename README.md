@@ -54,3 +54,5 @@ Want to know more about me? [Check out my portfolio.](http://arbaazsumar.com/)
 
 </details>
 
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
