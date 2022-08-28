@@ -1,5 +1,5 @@
 
- [![MasterHead](./header.png)]
+ ![MasterHead](./header.png)
  
  I’m **Arbaaz Sumar**, a Front-End Engineer, active coder and avid dreamer. I make it my mission to translate user-focused designs into pixel-perfect websites or applications that run blazing fast.
 
