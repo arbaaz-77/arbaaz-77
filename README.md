@@ -9,8 +9,6 @@
 
 <h3 style="color:#dd6387;">I make it my mission to translate user-focused designs into pixel-perfect websites or applications that run blazing fast.</h3>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=arbaaz-77&theme=dracula&hide_border=true)](https://git.io/streak-stats)
-
 [![My Github stats](https://github-readme-stats.vercel.app/api?username=arbaaz-77&show_icons=true&theme=dracula)](https://github.com/arbaaz-77/github-readme-stats)
 
 
